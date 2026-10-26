@@ -47,10 +47,11 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 - **Cyber Security** — Agent behavior, adversarial testing, and enforceable boundaries.
 - **Robotics** — Connecting software decisions to physical systems.
 
+
 ## Connect
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
 
+[Telegram / @Muzzy5150](https://t.me/Muzzy5150)
 
-[Telegram / @Muzzy5150] (https://t.me/Muzzy5150)
 
