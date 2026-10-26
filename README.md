@@ -30,7 +30,7 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 
 ### DeFi & Developer Tools
 
-- **[VEXUM](https://github.com/Muzzy5150/Vexum)** — A terminal-first Solana toolkit for encrypted wallets, on-chain token research, transaction construction, and guarded DeFi operations. Live reads and quote/build checks are verified; funded mainnet execution remains unverified.
+- **[VEXUM](https://github.com/Muzzy5150/Vexum)** — A terminal-first Solana toolkit for encrypted wallets, on-chain token research, transaction construction, and guarded DeFi operations. Live reads and quote/build checks are verified. Features Pump.fun launch tools, Jupiter swaps, NFT utilities, real-time token monitoring, and an extensible CLI for custom tools.
 
 ### Robotics
 
@@ -50,3 +50,5 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 ## Connect
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
+[Telegram / @Muzzy5150] (https://t.me/Muzzy5150)
+
