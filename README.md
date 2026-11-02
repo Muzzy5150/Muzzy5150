@@ -44,12 +44,9 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 
 - **[pumpfun-source](https://github.com/Muzzy5150/pumpfun-source)** — Contributed to the community reconstruction of Pump.fun's on-chain Solana programs, including SBPF control-flow analysis, stateful differential testing, and reconstruction tooling.
 
-## Tip Jar ☕
+## Connect
 
 [![Tip in SOL](https://img.shields.io/badge/Tip_in-SOL-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solscan.io/account/nTzNP7d1dDjncMuj7j3c9GjtFHUduqnHeF7gfENtjiG)
-
-If anything I've built has been useful, feel free to toss a little SOL my way. Thanks for the support 🤝
-## Connect
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
 
