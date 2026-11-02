@@ -46,11 +46,9 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 
 ## Tip Jar ☕
 
-[![Tip in SOL](https://img.shields.io/badge/Tip_in-SOL-14F195?style=flat-square&logo=solana&logoColor=black)](https://solscan.io/account/nTzNP7d1dDjncMuj7j3c9GjtFHUduqnHeF7gfENtjiG)
+[![Tip in SOL](https://img.shields.io/badge/Tip_in-SOL-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solscan.io/account/nTzNP7d1dDjncMuj7j3c9GjtFHUduqnHeF7gfENtjiG)
 
-**Solana (SOL):** `nTzNP7d1dDjncMuj7j3c9GjtFHUduqnHeF7gfENtjiG`
-
-Tips are always appreciated! Copy the address into your Solana wallet to send SOL.
+If anything I've built has been useful, feel free to toss a little SOL my way. Thanks for the support 🤝
 ## Connect
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
