@@ -40,6 +40,10 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 
 - **[Bandersnatch Interactive](https://github.com/Muzzy5150/Bandersnatch-Interactive)** — Remember *Black Mirror: Bandersnatch*? I built a local interactive player that recreates its branching choices using your own compatible movie file. The movie isn't included—bring your own treasure, captain. 🏴‍☠️
 
+## Open Source Contributions
+
+- **[pumpfun-source](https://github.com/Muzzy5150/pumpfun-source)** — Contributed to the community reconstruction of Pump.fun's on-chain Solana programs, including SBPF control-flow analysis, stateful differential testing, and reconstruction tooling.
+
 ## Current Focus
 
 - **AI Agents** — Persistent context, coordination, and reliable tool use.
