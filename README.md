@@ -44,14 +44,6 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 
 - **[pumpfun-source](https://github.com/Muzzy5150/pumpfun-source)** — Contributed to the community reconstruction of Pump.fun's on-chain Solana programs, including SBPF control-flow analysis, stateful differential testing, and reconstruction tooling.
 
-## Current Focus
-
-- **AI Agents** — Persistent context, coordination, and reliable tool use.
-- **DeFi** — On-chain research and guarded transaction tooling.
-- **Cyber Security** — Agent behavior, adversarial testing, and enforceable boundaries.
-- **Robotics** — Connecting software decisions to physical systems.
-
-
 ## Connect
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
