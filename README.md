@@ -47,6 +47,7 @@ I focus on what happens when agents share evidence, combine capabilities, and ac
 ## Connect
 
 [![Tip in SOL](https://img.shields.io/badge/Tip_in-SOL-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solscan.io/account/nTzNP7d1dDjncMuj7j3c9GjtFHUduqnHeF7gfENtjiG)
+[![Tip in ETH](https://img.shields.io/badge/Tip_in-ETH-627EEA?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xDfc4E43E37384bca942537C480D593611347f6DE)
 
 [X / @Muzzy5150](https://x.com/Muzzy5150)
 
